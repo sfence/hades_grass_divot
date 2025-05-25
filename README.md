@@ -1,7 +1,7 @@
-Minetest Game mod: hades_garden_trowel
+Luanti Game mod: hades_grass_divot
 ======================================
 
-This mod provide new grass spreading method to Minetest subgame Hades Revisited.
+This mod provide new grass spreading method to Luanti subgame Hades Revisited.
 
 See LICENSE for license information.
 
@@ -15,9 +15,6 @@ Media copyright
 
 Textures
 --------
-
-CC BY-SA 4.0: Copyright (c) 2021 SFENCE
-  * garden_trowel_trowel_prism.png
 
 CC BY-SA 4.0: Copyright (c) 2021 Sinki
   * others
