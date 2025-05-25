@@ -10,7 +10,7 @@ local S = grass_divot.translator;
 core.register_craftitem("hades_grass_divot:grass_divot", {
 		description = S("Grass Divot"),
 		_tt_help = S("Place me on wet garden soil."),
-		inventory_image = "garden_trowel_grass_divot.png",
+		inventory_image = "grass_divot_grass_divot.png",
 		
 		on_place = function (itemstack, placer, pointed_thing)
 			local node = core.get_node(pointed_thing.under);
