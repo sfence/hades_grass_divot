@@ -17,7 +17,7 @@ Textures
 --------
 
 CC BY-SA 4.0: Copyright (c) 2021 Sinki
-  * others
+  * `grass_divot_grass_divot.png`
 
 
 
