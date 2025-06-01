@@ -7,7 +7,7 @@ See LICENSE for license information.
 
 Source code copyright
 ----------------------
-Copyright (c) 2021 SFENCE
+Copyright (c) 2021-2025 SFENCE
 MIT - check LICENSE file
 
 Media copyright
